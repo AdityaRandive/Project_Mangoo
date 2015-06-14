@@ -10,6 +10,7 @@ The principal objectives aimed to be achieved are:
   - To address the issue of Multiple Read/Write by Concurrent processes which leads to inconsistency in the database.
   - To apply this at the System/Database level.
   - To create a locking mechanism for the same.
+
 Support for multiple threads will enable more efficient use of system to make processing faster
 and concurrent. Support for Transactions in DBFS aims to prevent unpredictable and inconsistent
 results caused by conflicts between two threads accessing same database elements simultaneously.
