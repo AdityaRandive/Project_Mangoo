@@ -1,4 +1,4 @@
-2014-02-25 Amit S. Kale(amitkale@geeksofpune.in)
+2015-06-15 Aditya P. Randive(adityaden5@gmail.com)
 	* src/apps/fuse/mangoofuse.c Corrected to use mangoo_types instead of mangoo_interfaces when
 	filling directories. Added directory and file remove functionality.
 	* src/lang/c/lib/mangoo.c Added directory and file delete.

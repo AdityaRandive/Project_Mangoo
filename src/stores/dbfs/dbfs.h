@@ -1,5 +1,5 @@
 /*
-	Copyright (C) 2014 Amit S. Kale.
+	Copyright (C) 2015 Aditya P. Randive.
 	This file is part of the mangoo filestore framework.
 
 	The mangoo filestore framework is free software; you can redistribute it and/or
