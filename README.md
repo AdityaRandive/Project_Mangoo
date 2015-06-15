@@ -1,5 +1,5 @@
 # Project_Mangoo
-Thread Consistent File Storage in Databases (Bachelor Thesis Project)
+Thread Consistent File Storage in Databases (Undergraduate Thesis Project)
 
 ### Abstract
 File system in User space (FUSE) is an operating system mechanism for Unix-like computer operating systems. FUSE is a means of providing an interface with code that doesn't run in the kernel. This can dramatically improve stability and security, since kernel code is privileged, while userspace code isn't. Mangoo is a flexible framework for storage. Applications can use Mangoo to use different functionalities, such as use of databases, to store their data. Mangoo uses the Mangoo data stores to achieve these functionalities. Mangoo framework offers two interfaces - one to applications and the other to file stores. Mangoo serves as a connection between the two. For example
