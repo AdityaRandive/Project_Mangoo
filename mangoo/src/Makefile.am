@@ -1,1 +1,0 @@
-SUBDIRS = lang stores apps
